@@ -1,0 +1,16 @@
+#input_page{
+    display: flex;
+    flex-direction: column;
+    padding-left: 2rem;
+    padding-top: 2rem;
+    padding-right: 2rem;
+    align-items: center;
+    background-color: #808080;
+   border: solid black; 
+   border-radius: 2%;
+
+}
+input{
+    margin-bottom: 1rem;
+    }
+    
